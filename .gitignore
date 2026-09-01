@@ -1,0 +1,6 @@
+# Private Revonest planning and handoff files
+*.md
+SHA256SUMS.txt
+wireframes/
+backups/
+*.zip
